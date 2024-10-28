@@ -1,4 +1,4 @@
-# 👋 Xin chào! Mình là [Tên của bạn]
+# 👋 Xin chào! Mình là [Khải Duy]
 
 ### 📚 Vài nét về mình
 - 🎓 Hiện tại mình là sinh viên HUFLIT, chuyên ngành Công Nghệ Phần Mềm.
