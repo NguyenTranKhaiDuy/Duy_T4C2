@@ -1,34 +1,34 @@
-# 👋 Xin chào! Mình là Khải Duy
+# 👋 Hello! I'm Khải Duy
 
-### 📚 Vài nét về mình
-- 🎓 Hiện tại mình là sinh viên HUFLIT, chuyên ngành Công Nghệ Phần Mềm.
-- 🌍 Quê quán: Tiền Giang
-- 🗓️ Tuổi: 20 tuổi
-- 🌱 Mình đang khám phá các dự án liên quan đến phát triển web, React và phát triển backend.
-- 💼 Hiện tại, mình đang làm việc trên các dự án như hệ thống quản lý cửa hàng điện thoại và hệ thống đặt xe khách.
-- 🛠️ Kỹ năng của mình bao gồm JavaScript, React và ASP.NET Core, và mình cũng rất quan tâm đến thiết kế giao diện người dùng (UI/UX).
+### 📚 About Me
+- 🎓 I'm currently a student at HUFLIT, majoring in Software Engineering.
+- 🌍 Hometown: Tiền Giang
+- 🗓️ Age: 20 years old
+- 🌱 I'm exploring projects related to web development, React, and backend development.
+- 💼 Currently, I'm working on projects like a phone store management system and a passenger booking system.
+- 🛠️ My skills include JavaScript, React, and ASP.NET Core, and I'm very interested in user interface (UI/UX) design.
 
-### 🔧 Công nghệ & Công cụ
-- **Ngôn ngữ**: JavaScript, C#, HTML, CSS
-- **Framework & Thư viện**: React, ASP.NET Core
-- **Công cụ khác**: Git, SQL, Visual Studio Code
+### 🔧 Technologies & Tools
+- **Languages**: JavaScript, C#, HTML, CSS
+- **Frameworks & Libraries**: React, ASP.NET Core
+- **Other Tools**: Git, SQL, Visual Studio Code
 
-### 🚀 Dự án hiện tại
-- Hệ thống đặt xe khách (ASP.NET Core)
-- Hệ thống quản lý cửa hàng điện thoại (React & CSS)
+### 🚀 Current Projects
+- Passenger booking system (ASP.NET Core)
+- Phone store management system (React & CSS)
 
-### 🧑‍🎨 Sở thích
-- Thích khám phá các công nghệ mới và thử thách bản thân trong các dự án mới
-- Thích thể thao và chơi điện tử
+### 🧑‍🎨 Hobbies
+- Enjoy exploring new technologies and challenging myself with new projects
+- Passionate about sports and playing video games
 
-### 💬 Kết nối với mình!
+### 💬 Connect with Me!
 - [GitHub](https://github.com/NguyenTranKhaiDuy)
 - Email: nguyentrankhaiduy@gmail.com
-- Điện thoại: 0362259739
+- Phone: 0362259739
 
-### 🎯 Mục tiêu
-- Nâng cao kỹ năng phát triển backend
-- Đóng góp cho các dự án mã nguồn mở
+### 🎯 Goals
+- Enhance my backend development skills
+- Contribute to open-source projects
 
-### 🙏 Lời cảm ơn
-Cảm ơn bạn đã ghé thăm hồ sơ của mình và dành thời gian tìm hiểu về mình. Mình rất mong được kết nối và học hỏi thêm từ mọi người! 😊
+### 🙏 Thank You
+Thank you for visiting my profile and taking the time to learn about me. I look forward to connecting and learning from everyone! 😊
